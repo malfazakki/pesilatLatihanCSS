@@ -4,7 +4,7 @@
     text-align: center;
     padding: 10px;
     background: url(patternwh.png);
-    border: 1px solid darkgrey; 
+    border: 1px solid grey; 
 }
 #tabel-siswa th, td {
     box-sizing: border-box;
